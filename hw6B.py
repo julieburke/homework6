@@ -4,7 +4,6 @@ import re
 
 address = ' http://py4e-data.dr-chuck.net/known_by_Colton.html'
 
-totsum = 0
 
 n = 0
 x = 0
